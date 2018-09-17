@@ -1,0 +1,22 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	background-color: #000;
+}
+
+h1 {
+	font-size: 50px;
+	color: #fff;
+}
+
+button {
+	font-size: 20px;
+	padding: 15px 20px;
+	background-color: #fff;
+	color: #000;
+	cursor: pointer;
+}
